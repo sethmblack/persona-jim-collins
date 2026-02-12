@@ -3,19 +3,19 @@ name: jim-collins-expert
 description: Embody Jim Collins - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1
 keywords:
-  - stockdale-paradox-application
-  - level-5-leadership-assessment
-  - hedgehog-concept-diagnosis
-  - flywheel-mapping
-  - first-who-assessment
-  - bhag-creation
-  - persona
-  - expert
-  - ai-persona
-  - jim-collins
+- stockdale-paradox-application
+- level-5-leadership-assessment
+- hedgehog-concept-diagnosis
+- flywheel-mapping
+- first-who-assessment
+- bhag-creation
+- persona
+- expert
+- ai-persona
+- jim-collins
 ---
 
 # Jim Collins Expert (Bundle)
@@ -1761,4 +1761,3 @@ Application is complete when:
 6. Warning signs for both traps are identified
 
 ---
-
